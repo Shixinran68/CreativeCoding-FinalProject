@@ -1,5 +1,5 @@
-//Xinran Shi's week 11 assignment for creative coding (Arduino)
-//three sensors/switch used in the program: potentiometer, button, and photo resistor
+//Xinran Shi's final project for creative coding (Arduino)
+//two switches/sensors used in the program: potentiometer and button
 
 void setup() {
   Serial.begin(9600); // initialize serial communications
